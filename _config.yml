@@ -3,7 +3,7 @@ title: Anubha
 subtitle: Singh
 email: anubha@umich.edu
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "anubhausha.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:

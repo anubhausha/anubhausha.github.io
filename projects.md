@@ -9,6 +9,16 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<section id="zero">
+	<div class="inner">
+		<header class="major">
+			<h2>1. Labor and automation in the Informal labor markets of the Global South (ongoing)</h2>
+		</header>
+		<p> This project explores how automated processes and algorithmic management of intermediary on-demand tech platforms intersect with the informal labor markets of the Global South to produce new sociotechnical work arrangements.</p>
+	</div>
+</section>
+
+
 
 <!-- One kind of project description - No image, only text -->
 <section id="one">
